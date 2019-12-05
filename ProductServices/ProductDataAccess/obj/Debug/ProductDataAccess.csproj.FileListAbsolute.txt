@@ -1,0 +1,12 @@
+C:\Users\EXT02D12118\source\repos\ProductServices\ProductDataAccess\bin\Debug\ProductDataAccess.dll.config
+C:\Users\EXT02D12118\source\repos\ProductServices\ProductDataAccess\bin\Debug\ProductDataAccess.dll
+C:\Users\EXT02D12118\source\repos\ProductServices\ProductDataAccess\bin\Debug\ProductDataAccess.pdb
+C:\Users\EXT02D12118\source\repos\ProductServices\ProductDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\EXT02D12118\source\repos\ProductServices\ProductDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EXT02D12118\source\repos\ProductServices\ProductDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\EXT02D12118\source\repos\ProductServices\ProductDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EXT02D12118\source\repos\ProductServices\ProductDataAccess\obj\Debug\ProductDataAccess.csprojAssemblyReference.cache
+C:\Users\EXT02D12118\source\repos\ProductServices\ProductDataAccess\obj\Debug\ProductDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\EXT02D12118\source\repos\ProductServices\ProductDataAccess\obj\Debug\ProductDataAccess.csproj.CopyComplete
+C:\Users\EXT02D12118\source\repos\ProductServices\ProductDataAccess\obj\Debug\ProductDataAccess.dll
+C:\Users\EXT02D12118\source\repos\ProductServices\ProductDataAccess\obj\Debug\ProductDataAccess.pdb
